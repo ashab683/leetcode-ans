@@ -36,9 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/ashab683/leetcode-ans/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashab683/leetcode-ans/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashab683/leetcode-ans/tree/master/0852-peak-index-in-a-mountain-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ashab683/leetcode-ans/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
