@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ashab683/leetcode-ans/tree/master/0191-number-of-1-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/ashab683/leetcode-ans/tree/master/1009-complement-of-base-10-integer) |
+## Array
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ashab683/leetcode-ans/tree/master/0852-peak-index-in-a-mountain-array) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ashab683/leetcode-ans/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
