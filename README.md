@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ashab683/leetcode-ans/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ashab683/leetcode-ans/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ashab683/leetcode-ans/tree/master/0567-permutation-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ashab683/leetcode-ans/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ashab683/leetcode-ans/tree/master/0724-find-pivot-index) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ashab683/leetcode-ans/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ashab683/leetcode-ans/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
