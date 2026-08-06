@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashab683/leetcode-ans/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/ashab683/leetcode-ans/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/ashab683/leetcode-ans/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ashab683/leetcode-ans/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/ashab683/leetcode-ans/tree/master/0724-find-pivot-index) |
@@ -72,5 +73,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ashab683/leetcode-ans/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashab683/leetcode-ans/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ashab683/leetcode-ans/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
