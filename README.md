@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/ashab683/leetcode-ans/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ashab683/leetcode-ans/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/ashab683/leetcode-ans/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/ashab683/leetcode-ans/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ashab683/leetcode-ans/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashab683/leetcode-ans/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/ashab683/leetcode-ans/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/ashab683/leetcode-ans/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
