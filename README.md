@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ashab683/leetcode-ans/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ashab683/leetcode-ans/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashab683/leetcode-ans/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1773-count-items-matching-a-rule](https://github.com/ashab683/leetcode-ans/tree/master/1773-count-items-matching-a-rule) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashab683/leetcode-ans/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/ashab683/leetcode-ans/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ashab683/leetcode-ans/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ashab683/leetcode-ans/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1773-count-items-matching-a-rule](https://github.com/ashab683/leetcode-ans/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/ashab683/leetcode-ans/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ashab683/leetcode-ans/tree/master/1929-concatenation-of-array) |
 ## Binary Search
