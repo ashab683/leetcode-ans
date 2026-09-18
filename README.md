@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ashab683/leetcode-ans/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ashab683/leetcode-ans/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ashab683/leetcode-ans/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/ashab683/leetcode-ans/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashab683/leetcode-ans/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashab683/leetcode-ans/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
@@ -134,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashab683/leetcode-ans/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ashab683/leetcode-ans/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ashab683/leetcode-ans/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ashab683/leetcode-ans/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
