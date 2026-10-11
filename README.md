@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/ashab683/leetcode-ans/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/ashab683/leetcode-ans/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ashab683/leetcode-ans/tree/master/1929-concatenation-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ashab683/leetcode-ans/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashab683/leetcode-ans/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ashab683/leetcode-ans/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ashab683/leetcode-ans/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
