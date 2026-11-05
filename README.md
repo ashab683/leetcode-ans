@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ashab683/leetcode-ans/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ashab683/leetcode-ans/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ashab683/leetcode-ans/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/ashab683/leetcode-ans/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ashab683/leetcode-ans/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/ashab683/leetcode-ans/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashab683/leetcode-ans/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ashab683/leetcode-ans/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashab683/leetcode-ans/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ashab683/leetcode-ans/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/ashab683/leetcode-ans/tree/master/1480-running-sum-of-1d-array) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/ashab683/leetcode-ans/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashab683/leetcode-ans/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
