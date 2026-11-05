@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashab683/leetcode-ans/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/ashab683/leetcode-ans/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ashab683/leetcode-ans/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ashab683/leetcode-ans/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ashab683/leetcode-ans/tree/master/0283-move-zeroes) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ashab683/leetcode-ans/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ashab683/leetcode-ans/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ashab683/leetcode-ans/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/ashab683/leetcode-ans/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ashab683/leetcode-ans/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ashab683/leetcode-ans/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashab683/leetcode-ans/tree/master/0240-search-a-2d-matrix-ii) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ashab683/leetcode-ans/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashab683/leetcode-ans/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashab683/leetcode-ans/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
